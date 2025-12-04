@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="notes">
+        <item>12.5</item>
+        <item>15</item>
+        <item>7</item>
+        <item>12</item>
+        <item>10</item>
+        <item>18</item>
+        <item>8</item>
+    </string-array>
+</resources>

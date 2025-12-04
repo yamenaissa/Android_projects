@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669314739216",
+    "project_id": "noteti-2122c",
+    "storage_bucket": "noteti-2122c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669314739216:android:ebc85401f0cee129192e95",
+        "android_client_info": {
+          "package_name": "com.example.noteti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_xEYS4a_VP-uZ0EHFmWCIcEqJSyPhZgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
